@@ -1,5 +1,5 @@
-# CSIRO_auralisation
-Some sounds generated during my internship at CSIRO. These are from elderly's activity values of Smarthome.  
+# CSIRO_sonification
+Some sounds generated during my internship at CSIRO. The values used to generate sounds come from sensor values of a person's acitivty living in SmartHome.  
 The sounds can be generated automaitcally from codes (Python & midiutil etc.).  
 
 ## generation
