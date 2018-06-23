@@ -25,6 +25,6 @@ Currently, we only use major tonality (C or otherwise). Using other tonality lik
 This can be used appropriately if we can extract activity information from raw values.
 #### note 1
 If I write detailed explanation, it will probably be convoluted since I have to keep finding new words to describe some abstract features,
-which doesn't have an analogue to what most people know (?).
+which doesn't have an analogue to what most people know (?). To be honest, it's a bit hard to put words on why I do certain things...
 #### note 2
 If you are reading this, thanks Son and Qing for opportunities. I hope I at least gave you guys some ideas.
