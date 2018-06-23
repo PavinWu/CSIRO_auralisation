@@ -1,12 +1,12 @@
 # CSIRO_auralisation
-Some sounds generated during my internship at CSIRO.  
-These are from elderly's activity values of Smarthome.  
+Some sounds generated during my internship at CSIRO. These are from elderly's activity values of Smarthome.  
 The sounds can be generated automaitcally from codes (Python & midiutil etc.).  
 
 ## generation
-Sounds from raw values and new generated sounds are uploaded.  
-Even though, activity pattern cannot be inferred from the sounds at this stage (which would make it truly useful), it sounds pretty good!?  
-This is achieved mostly by   
+Sounds from raw values and new generated sounds are uploaded.
+Even though, activity pattern cannot be inferred from the sounds at this stage (which would make it truly useful), it sounds pretty good!?
+This is achieved mostly by  
+ 
     1. categorising the raw value sounds  
     2. extract their "contour" information, and do some manipulation  
     3. apply tonality and some additional rules to the manipulated contours  
@@ -27,4 +27,4 @@ This can be used appropriately if we can extract activity information from raw v
 If I write detailed explanation, it will probably be convoluted since I have to keep finding new words to describe some abstract features,
 which doesn't have an analogue to what most people know (?).
 #### note 2
-If you are reading this, thanks Son and Qing for opportunities. 
+If you are reading this, thanks Son and Qing for opportunities. I hope I at least gave you guys some ideas.
