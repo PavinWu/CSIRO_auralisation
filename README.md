@@ -20,6 +20,8 @@ I think it's actually called something else in music theory, but I forgot what i
 I'm not uploading the code since I signed an agreement. May be I will after a few years, if I had to.  
 Right now, this repo could serve as a showroom.  
 
+Try to compare the sounds of same number in "Raw sounds" and "Generated sounds"!
+
 ## some ideas
 Currently, we only use major tonality (C or otherwise). Using other tonality like minor etc. will give a different feelings to the sounds.
 This can be used appropriately if we can extract activity information from raw values.
