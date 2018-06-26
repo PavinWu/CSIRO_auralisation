@@ -21,6 +21,7 @@ I'm not uploading the code since I signed an agreement. May be I will after a fe
 Right now, this repo could serve as a showroom.  
 
 Try to compare the sounds of same number in "Raw sounds" and "Generated sounds"!
+Using McNemar's test with n=22, people prefer sound 3>1>0.
 
 ## some ideas
 Currently, we only use major tonality (C or otherwise). Using other tonality like minor etc. will give a different feelings to the sounds.
