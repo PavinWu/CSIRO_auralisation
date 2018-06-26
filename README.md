@@ -20,7 +20,7 @@ I think it's actually called something else in music theory, but I forgot what i
 I'm not uploading the code since I signed an agreement. May be I will after a few years, if I had to.  
 Right now, this repo could serve as a showroom.  
 
-Try to compare the sounds of same number in "Raw sounds" and "Generated sounds"!
+Try to compare the sounds of same number in "Raw sounds" and "Generated sounds"!  
 Using McNemar's test with n=22, people prefer sound 3>1>0.
 
 ## some ideas
