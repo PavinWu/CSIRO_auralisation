@@ -4,8 +4,8 @@ The sounds can be generated automaitcally from codes (Python & midiutil etc.).
 
 ## Generation
 The values used to generate sounds come from sensor values of SmartHome during a person's activity.  
-These values are then converted to the form to easily generate new sounds from.  
-Using the converted values directly as notes, result in the Raw sounds.  
+These values are then converted to the form which we can easily generate new sounds from.  
+Using the converted values directly as notes gives the Raw sounds.  
 With the converted values, we do stuffs so they sound better.
 
 This is achieved mostly by  
