@@ -19,7 +19,7 @@ This is achieved mostly by
         - midi files converted to mp3 with FluidSynth on Ubuntu (with FluidR3_GM soundfont)  
 
 I think my definition of contour is actually called intervals in music theory,
-and music theory contour is just the quality of movement e.g. going up and down.  
+and music theory contour is just the quality of movement e.g. going up and down. See https://en.wikipedia.org/wiki/Melodic_motion
 However, readjusting definition will require me to revise a lot of writing on the report.  And due to other work, I don't think I will be working on this any time soon i.e. progress not required. So, I think it's ok to keep "contour" as is.
 
 ## NOTEs
