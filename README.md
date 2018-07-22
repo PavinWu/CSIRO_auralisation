@@ -20,7 +20,6 @@ This is achieved mostly by
 
 I think my definition of contour is actually called intervals in music theory,
 and music theory contour is just the quality of movement e.g. going up and down. See https://en.wikipedia.org/wiki/Melodic_motion.  
-However, readjusting definition will require me to revise a lot of writing on the report.  And due to other work, I don't think I will be working on this any time soon i.e. progress not required. So, I think it's ok to keep "contour" as is.
 
 ## NOTEs
 #### Note 0
@@ -32,9 +31,6 @@ Using McNemar's test with n=22, people prefer sound 3>1>0.
 I'm not uploading the code since I signed an agreement. May be I will after a few years, if I had to.  
 Right now, this repo could serve as a showroom.  
 #### Note 2
-If I write detailed explanation, it will probably be convoluted since I have to keep finding new words to describe some abstract features,
-which doesn't have an analogue to what most people know (?). To be honest, it's a bit hard to put words on why I do certain things...
-#### Note 3
 If you are reading this, thanks Son and Qing for opportunities. I hope I at least gave you guys some ideas.
 
 ## Some Ideas
